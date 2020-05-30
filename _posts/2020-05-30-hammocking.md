@@ -2,7 +2,7 @@
 title: Hammocking at Söderåsen
 author: itlabbet
 date: 2020-05-30 10:00:00 +0100
-categories: [Outdoor, Hammocking]
+categories: [Itlabbet, Outdoor]
 tags: [hammocking, outdoor, walking, trail]
 ---
 
